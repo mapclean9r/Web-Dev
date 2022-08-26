@@ -24,10 +24,6 @@ nav {
     
 }
 
-#menyen img {
-    position: relative;
-    top: 15px;
-    }
 
 #menyen ul>li>a {
     display: block;
@@ -44,14 +40,7 @@ nav {
 }
 
 
-#imgmenu:hover {
-    box-shadow: 0px 0px 15px black;
-    z-index: 1;
-    background-color: orange;
-}
-
-.h1msg {
-    font-size: 40;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: white;
+#logotopleft:hover{
+    float: left;
+    background-color: none;
 }
